@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello! I'm Karthik
+ 
+I have 9.3 years of extensive experience in SAP technical consulting, Open source, Artificial Intelligence, and Automation arena. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Technical Architect by profession, a  budding blogger, Interested to learn new technologies and a firm believer in the art of creative problem-solving.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kn.in@live.in](mailto:kn.in@live.in)
