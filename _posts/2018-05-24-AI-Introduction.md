@@ -7,7 +7,7 @@ title: AI or Complex behavior in machines - An Introduction from a programmer
 <p>For a brief period of time, the main motivation for mankind is to develop machines with predictable behavior. Let it be a wheel, a calculator, a car, or even a space rocket, the purpose was always to develop machines to perform a particular task with predictable outcome or behavior.</p>
  
 <p>Now the world is moving towards the next generation of machines which are widely categorized as machines with Artificial intelligence. Let it be a phone that understands the natural language or a car that drives itself, these are going to impact the way we live and experience life in a larger way.</p>
-<p>To understand and appreciate this Artificial intelligence, we must first have a better understanding of what is human intelligence. <blockquote>"Human intelligence is the cognitive ability to learn, form concepts, understand, apply logic, and reason, including the capacities to recognize patterns, comprehend ideas, plan, solve problems, make decisions, retain information, and use language to communicate. Intelligence enables humans to experience and think" - Wikipedia.</blockquote> 
+<p>To understand and appreciate this Artificial intelligence, we must first have a better understanding of what is human intelligence. <blockquote>"Human intelligence is the cognitive ability to learn, form concepts, understand, apply logic, and reason, including the capacities to recognize patterns, comprehend ideas, plan, solve problems, make decisions, retain information, and use language to communicate. Intelligence enables humans to experience and think" - Wikipedia.</blockquote> <br>
 This leaves us with a question - Can machines be programmed to have intelligence like humans?</p>
 
 <p>The word ‘Programming' literally means a precise sequence of instructions enabling a computer to perform a task. If the purpose of the machine is to perform a task that it is programmed to, can it ever be an intellectual? With that sense, the statement 'Programming an Artificial Intelligent machine' itself seems to be an oxymoron. </p>
@@ -21,5 +21,6 @@ Before we imagine a machine which can think and act like humans do, a more pract
 
 <p>To put it more clear, Artificial Intelligence as we know are the implementations of mathematical models which can solve complex real-world problems in a heuristic way. This approach opens up new different ways to solve the problems ex. A mathematical model can be built with help of previous results with a motivation to predict or classify future results; A mathematical model can be built to remember decisions in relation to the past, current and future environment or state, these models can later be used to make informed decisions on its own. Given the number of mathematical approaches to try, Typically the choice of the mathematical models will be influenced by the type of problem it intends to solve. Hence the clear understanding of the problem is the most tricky and vital part of solving it, once the understanding is clear the mathematical solution would naturally follow.</p>
 
-<p>With this understanding, now we can now focus on how to design, measure and improve such mathematical models.</p>
+<p>With this understanding, we can now focus on how to design, measure and improve such mathematical models.</p>
 
+<p>To design an AI model </p>
